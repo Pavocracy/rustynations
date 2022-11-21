@@ -17,5 +17,5 @@
             ]
         }
     },
-    "onCreateCommand": "cargo install"
+    "onCreateCommand": "cargo install --path ."
 }
