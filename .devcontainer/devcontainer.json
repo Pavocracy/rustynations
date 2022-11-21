@@ -1,0 +1,21 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/rust:1": {
+            "version": "latest"
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "settings": { 
+                "editor.tabSize": 4,
+                "editor.detectIndentation": true,
+                "editor.insertSpaces": true
+            },
+            "extensions": [
+                "rust-lang.rust-analyzer"
+            ]
+        }
+    },
+    "onCreateCommand": "cargo install"
+}
