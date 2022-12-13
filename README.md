@@ -5,7 +5,7 @@ NationStates.net CLI written in rust. Because thats whats trendy!
 
 # Contributing
 If you would like to contribute, adding features or fixing current bugs is always appreciated!
-I would encourage you to see [CONTRIBUTING.md](docs/CONTRIBUTING.md "Contributing doc") for further details.
+I would encourage you to see [CONTRIBUTING.md](.github/CONTRIBUTING.md "Contributing doc") for further details.
 If you would like to report bugs or suggest websites to support, please add a card to [Issues](https://github.com/Pavocracy/rustynations/issues "Github issues").  
   
 Thank you to all contributors of this project!  
@@ -18,7 +18,7 @@ Thank you to all contributors of this project!
 
 # Code of Conduct
 
-Contributing to this project means you are willing to follow the same conduct that others are held to! Please see [Code of Conduct](docs/CODE_OF_CONDUCT.md "Code of conduct doc") for further details.
+Contributing to this project means you are willing to follow the same conduct that others are held to! Please see [Code of Conduct](.github/CODE_OF_CONDUCT.md "Code of conduct doc") for further details.
 
 ***
 
