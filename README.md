@@ -1,6 +1,5 @@
 # rustynations
-NationStates.net CLI written in rust. Because thats whats trendy!
+NationStates.net CLI written in rust.
 
-### testing
-[Coding Standard](CODING_STANDARD.md "Coding standard doc")  
-[Code of Conduct](.github/CODE_OF_CONDUCT.md "Code of conduct doc")
+# TODO:
+everything...
